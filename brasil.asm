@@ -5,7 +5,7 @@
 # unit width/height: 32
 # display width: 512
 # display height: 512
-# base address for display: 0x1001000 (static data)
+# base address for display: 0x10010000 (static data)
 
 .data
 display: .space 1024
